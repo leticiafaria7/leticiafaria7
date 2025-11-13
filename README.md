@@ -1,5 +1,5 @@
 ### Welcome! 😊
-🎓 Sou engenheira química por formação e atuo como cientista de dados em uma consultoria de transformação digital
+🎓 Sou cientista de dados em uma consultoria de transformação digital, cursando pós-graduação em Machine Learning Engineering
 
 ✨ Meus interesses na área de tecnologia envolvem:
  - tratamento, análise exploratória e visualização de dados
