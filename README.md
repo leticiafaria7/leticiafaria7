@@ -1,7 +1,7 @@
 ### Welcome! 😊
 🚀 Sou cientista de dados em uma consultoria de transformação digital
 
-🎓 Tenho formação em Engenharia Química e estou cursando pós-graduação em Machine Learning Engineering
+🎓 Tenho formação em Engenharia Química pela UFMG e estou cursando pós-graduação em Machine Learning Engineering pela FIAP
  <!-- ### ↗️ Links -->
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/leticiaemanuellafaria/) [![GitHub Gists](https://img.shields.io/badge/github_gists-4d4d4d?style=for-the-badge&logo=GitHub&logoColor=white)](https://gist.github.com/leticiafaria7)
  ---
