@@ -1,5 +1,5 @@
 ### Welcome! ✨
-Vim da Engenharia Química mas migrei para **Ciência de Dados** em 2021.<br>Quase tudo que eu sei de programação eu fui aprendendo em projetos de consultoria, e atualmente estou fazendo **pós-graduação em Machine Learning Engineering** 🚀
+Vim da Engenharia Química mas migrei para **Ciência de Dados** em 2021.<br>Quase tudo que eu sei sobre programação eu fui aprendendo em projetos de consultoria, e atualmente estou fazendo **pós-graduação em Machine Learning Engineering** 🚀
 
 Tem um projeto bem legal no repositório [books-catalog-api](https://github.com/leticiafaria7/books-catalog-api), é a construção de uma **API com Flask** que envolve várias etapas (web scraping, autenticação de usuários, criação de endpoints, deploy, conexão com base de dados, monitoramento). Eu me diverti muito construindo e organizando o projeto, vale a pena dar uma olhada 😊
 
