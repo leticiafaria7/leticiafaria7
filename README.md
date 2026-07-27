@@ -6,6 +6,7 @@ Vim da Engenharia Química mas migrei para **Ciência de Dados** em 2021, e desd
 - [books-catalog-api](https://github.com/leticiafaria7/books-catalog-api): Construção de uma **API com Flask** que envolve várias etapas (web scraping, autenticação de usuários, criação de endpoints, deploy, conexão com base de dados, monitoramento)
 - [terraform-aws-stock-etl](https://github.com/leticiafaria7/terraform-aws-stock-etl): **Pipeline de ETL** de dados do Ibovespa provisionado com serviços do ecossistema da **AWS** (S3, Glue, Lambda, Athena)
 - [us-flights-delay-modeling](https://github.com/leticiafaria7/us-flights-delay-modeling): Preparo dos dados, EDA e treino de um **modelo LightGBM** para prever a probabilidade de um voo atrasar
+- [lstm-stock-predictor-api](https://github.com/leticiafaria7/lstm-stock-predictor-api): Construção de uma API que serve o predict de um **modelo LSTM** (um tipo de redes neurais recorrentes para séries temporais) treinado para predizer o valor de fechamento de ações
 - Em breve, outros projetos 😊
 
 Tem também o repositório [tools-functions](https://github.com/leticiafaria7/tools-functions), que eu consulto bastante no meu trabalho: tem uns códigos prontos super úteis (configuração de ambiente, funções prontas para sanity check e EDA de bases de dados e etc)
