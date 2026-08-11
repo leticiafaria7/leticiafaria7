@@ -18,7 +18,7 @@ Nos links abaixo estão o meu perfil no **LinkedIn** e minha página no **GitHub
 
 <!-- ### 📈 Stats -->
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=leticiafaria7&show_icons=true&theme=omni&card_width=950px&text_bold=false) -->
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leticiafaria7&theme=omni&layout=normal&card_width=1000px)
+<!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leticiafaria7&theme=omni&layout=normal&card_width=1000px) -->
 
 
 <!-- [![GitHub EloGroup](https://img.shields.io/badge/github_elogroup-4d4d4d?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.github.com/leticia-elogroup)
